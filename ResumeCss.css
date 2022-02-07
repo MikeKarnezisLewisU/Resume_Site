@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+    font-style: bold;
+}
+ul {
+    list-style-type: disc;
+}
+
+h3 {
+    font-size: large;
+    font-style: italic;
+}
+
+h4 {
+    font-size: medium;
+    font-style: normal;
+}
