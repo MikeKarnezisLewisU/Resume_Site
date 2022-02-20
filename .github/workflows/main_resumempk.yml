@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ResumeMPK'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89B73B6FF3CD4EB59C2DD8F18702DB7D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_11278F065A2848D99ED6FAEC13D0D16C }}
           package: .
